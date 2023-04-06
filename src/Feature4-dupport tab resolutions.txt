@@ -1,3 +1,7 @@
 Feature 4: support tab resolutions
 2nd developer updates
+<<<<<<< HEAD
 old changes new changes with local repo
+=======
+updated code version 2
+>>>>>>> 5f2f88f6fed34a37768e912f75264de8e7529514
